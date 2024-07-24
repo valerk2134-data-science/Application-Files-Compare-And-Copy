@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Files. Compare and Copy||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|c:\\users\\valer\\source\\repos\\application-files-compare-and-copy\\net-4-5-data-functions\\net 4.5. file functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:net-4-5-data-functions\\net 4.5. file functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\net-4-5-data-functions\\net 4.5. string functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:net-4-5-data-functions\\net 4.5. string functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\net-4-5-data-functions\\net 4.5. array functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:net-4-5-data-functions\\net 4.5. array functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\net-4-5-data-functions\\net 4.5. datetime functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:net-4-5-data-functions\\net 4.5. datetime functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\applicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:applicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\applicationform.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:applicationform.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy. C#.csproj|C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy. C#.csproj|solutionrelative:applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valer\\AppData\\Local\\Temp\\ef075c7d-8bea-423d-88cb-bd1169636b0b_c-sharp-programming-files-2023-2024.zip.b0b\\c-sharp-programming-files-2023-2024\\C# File. Array Functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAAF9AE-590B-4391-B9E0-EC74262117DF}|Files. Compare and Copy.csproj|c:\\users\\valer\\source\\repos\\application-files-compare-and-copy\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Files. Compare and Copy",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\Files. Compare and Copy.csproj",
+              "RelativeDocumentMoniker": "Files. Compare and Copy.csproj",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\Files. Compare and Copy.csproj",
+              "RelativeToolTip": "Files. Compare and Copy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-24T11:34:11.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NET 4.5. String Functions.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. String Functions.cs",
+              "RelativeDocumentMoniker": "NET-4-5-Data-Functions\\NET 4.5. String Functions.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. String Functions.cs",
+              "RelativeToolTip": "NET-4-5-Data-Functions\\NET 4.5. String Functions.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAUwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:26:34.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NET 4.5. File Functions.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. File Functions.cs",
+              "RelativeDocumentMoniker": "NET-4-5-Data-Functions\\NET 4.5. File Functions.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. File Functions.cs",
+              "RelativeToolTip": "NET-4-5-Data-Functions\\NET 4.5. File Functions.cs",
+              "ViewState": "AQIAALoHAAAAAAAAAAAqwL0HAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:26:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NET 4.5. Datetime Functions.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. Datetime Functions.cs",
+              "RelativeDocumentMoniker": "NET-4-5-Data-Functions\\NET 4.5. Datetime Functions.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. Datetime Functions.cs",
+              "RelativeToolTip": "NET-4-5-Data-Functions\\NET 4.5. Datetime Functions.cs",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAUwGYBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:26:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NET 4.5. Array Functions.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. Array Functions.cs",
+              "RelativeDocumentMoniker": "NET-4-5-Data-Functions\\NET 4.5. Array Functions.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\NET-4-5-Data-Functions\\NET 4.5. Array Functions.cs",
+              "RelativeToolTip": "NET-4-5-Data-Functions\\NET 4.5. Array Functions.cs",
+              "ViewState": "AQIAAPELAAAAAAAAAAAiwPsLAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:25:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.cs",
+              "RelativeToolTip": "ApplicationForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:13:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "C# File. Array Functions.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\AppData\\Local\\Temp\\ef075c7d-8bea-423d-88cb-bd1169636b0b_c-sharp-programming-files-2023-2024.zip.b0b\\c-sharp-programming-files-2023-2024\\C# File. Array Functions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\ef075c7d-8bea-423d-88cb-bd1169636b0b_c-sharp-programming-files-2023-2024.zip.b0b\\c-sharp-programming-files-2023-2024\\C# File. Array Functions.cs",
+              "ToolTip": "C:\\Users\\valer\\AppData\\Local\\Temp\\ef075c7d-8bea-423d-88cb-bd1169636b0b_c-sharp-programming-files-2023-2024.zip.b0b\\c-sharp-programming-files-2023-2024\\C# File. Array Functions.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\ef075c7d-8bea-423d-88cb-bd1169636b0b_c-sharp-programming-files-2023-2024.zip.b0b\\c-sharp-programming-files-2023-2024\\C# File. Array Functions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:30:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:28:24.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationForm.resx",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.resx",
+              "RelativeDocumentMoniker": "ApplicationForm.resx",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.resx",
+              "RelativeToolTip": "ApplicationForm.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwFYBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-15T16:59:28.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\WindowsFormsApp3\\ApplicationForm.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\ApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:02:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.Designer.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.Designer.cs",
+              "RelativeToolTip": "ApplicationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:30:58.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\valer\\source\\repos\\Application-Files-Compare-And-Copy\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\valer\\source\\repos\\WindowsFormsApp3\\ApplicationForm.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\ApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:12:00.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
