@@ -1,0 +1,3 @@
+The application is released into public repository on 2024-07-24.
+The default copyright is applied to the code.
+Read about commercial/no commercial application of the code that can be publicly obtained.
