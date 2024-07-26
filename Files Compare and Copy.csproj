@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NET-4-5-Data-Functions\NET 4.5. Excel Functions.cs" />
+    <Compile Remove="NET-8-Data-Functions\NET 8.0. Excel Functions.cs" />
+    <Compile Remove="NET-8-Data-Functions\NET 8.0. SQL Database Functions.cs" />
+    <Compile Remove="NET-8-Data-Functions\NET 8.0. USB as VCP Class.cs" />
+  </ItemGroup>
+
+</Project>

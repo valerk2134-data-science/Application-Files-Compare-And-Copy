@@ -3,13 +3,21 @@ using DirectoryFunctionsNamespace;
 using FileFunctionsNamespace;
 using HardwareFunctionsNamespace;
 using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Diagnostics;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 using System.Xml;
 using XMLFileFunctionsNamespace;
-namespace WindowsFormsApp3
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+namespace WinFormsApp2
 {
     public partial class ApplicationForm : Form
     {
@@ -497,8 +505,8 @@ namespace WindowsFormsApp3
                 for (int i = 0; i < empty_dirs.Length; i++)
                 {
                     System.IO.Directory.Delete(empty_dirs[i]);
-                    
-                    Textbox_Folder_Source.Text += (i + 1).ToString() +". Deleted:\t" + empty_dirs[i] + "\r\n";
+
+                    Textbox_Folder_Source.Text += (i + 1).ToString() + ". Deleted:\t" + empty_dirs[i] + "\r\n";
                 }
             }
         }
@@ -506,6 +514,11 @@ namespace WindowsFormsApp3
         private void Button_Free_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Developer message.\r\nThis Button is free to use.\r\nIt was left to show there is space for buttons");
+        }
+
+        private void Button_Copy_To_Update_ChangeUICues(object sender, UICuesEventArgs e)
+        {
+
         }
     }
 }

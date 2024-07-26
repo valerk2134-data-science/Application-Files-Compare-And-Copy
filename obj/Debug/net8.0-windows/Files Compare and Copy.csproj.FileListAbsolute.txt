@@ -1,0 +1,16 @@
+C:\Users\valer\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Files Compare and Copy.exe
+C:\Users\valer\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Files Compare and Copy.deps.json
+C:\Users\valer\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Files Compare and Copy.runtimeconfig.json
+C:\Users\valer\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Files Compare and Copy.dll
+C:\Users\valer\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\Files Compare and Copy.pdb
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ApplicationForm.resources
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.AssemblyInfo.cs
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.dll
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\refint\Files Compare and Copy.dll
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.pdb
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\Files Compare and Copy.genruntimeconfig.cache
+C:\Users\valer\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\ref\Files Compare and Copy.dll
